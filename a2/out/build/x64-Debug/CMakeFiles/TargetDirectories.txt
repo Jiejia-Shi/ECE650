@@ -1,0 +1,4 @@
+C:/Users/86152/Desktop/650/a2/out/build/x64-Debug/CMakeFiles/ece650-a2.dir
+C:/Users/86152/Desktop/650/a2/out/build/x64-Debug/CMakeFiles/tests.dir
+C:/Users/86152/Desktop/650/a2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/86152/Desktop/650/a2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

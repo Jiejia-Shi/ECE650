@@ -1,0 +1,16 @@
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/CMakeFiles/ece650-a4.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/minisat-lib-static.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/rebuild_cache.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/minisat_simp.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/list_install_components.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/minisat-lib-shared.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/install/local.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/install.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/edit_cache.dir
+C:/Users/86152/Desktop/650/a4/out/build/x64-Debug/minisat/CMakeFiles/minisat_core.dir
